@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: umairjibran
+          user: yasinicl
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
